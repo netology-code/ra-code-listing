@@ -1,6 +1,6 @@
 # Events & State — demo project
 
-Небольшой демонстрационный проект с примерами из вебинара: LikeButton, FormButton, Counter, ProductList и классический ClassLikeButton.
+Демонстрационный проект с примерами из вебинара: LikeButton, FormButton, Counter, ProductList и классический ClassLikeButton.
 
 ## Файлы
 - src/App.jsx — основной файл приложения, показывает все примеры
