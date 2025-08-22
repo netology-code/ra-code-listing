@@ -1,6 +1,6 @@
 # hooks-context
 
-Листинг кода по теме **«Hooks и Context API»**.
+Листинг кода по теме **«hooks, Context API»**.
 
 ## Структура
 
